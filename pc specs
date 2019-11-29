@@ -1,0 +1,45 @@
+-Computer-
+Processor		: Intel(R) Core(TM) i5-3350P CPU @ 3.10GHz
+Memory		: 12240MB (7227MB used)
+Machine Type		: Desktop
+Operating System		: Ubuntu 18.04.3 LTS
+User Name		: eric (eric)
+Date/Time		: Fri 29 Nov 2019 12:27:45 PM EST
+-Display-
+Resolution		: 1440x900 pixels
+OpenGL Renderer		: AMD Radeon HD 7800 Series (PITCAIRN, DRM 3.33.0, 5.0.0-36-generic, LLVM 9.0.0)
+X11 Vendor		: The X.Org Foundation
+-Audio Devices-
+Audio Adapter		: HDA-Intel - HDA Intel PCH
+Audio Adapter		: HDA-Intel - HDA ATI HDMI
+-Input Devices-
+ Power Button
+ Power Button
+ CHICONY USB Keyboard
+ CHICONY USB Keyboard System Control
+ CHICONY USB Keyboard Consumer Control
+ CHICONY USB Keyboard
+ Logitech K750
+ Logitech M705
+ HDA ATI HDMI HDMI/DP,pcm:3
+ HDA ATI HDMI HDMI/DP,pcm:7
+ HDA ATI HDMI HDMI/DP,pcm:8
+ HDA ATI HDMI HDMI/DP,pcm:9
+ HDA ATI HDMI HDMI/DP,pcm:10
+ HDA ATI HDMI HDMI/DP,pcm:11
+ HDA Intel PCH Front Mic
+ HDA Intel PCH Rear Mic
+ HDA Intel PCH Line
+ HDA Intel PCH Line Out Front
+ HDA Intel PCH Line Out Surround
+ HDA Intel PCH Line Out CLFE
+ HDA Intel PCH Line Out Side
+ HDA Intel PCH Front Headphone
+-Printers-
+No printers found
+-SCSI Disks-
+ADATA USB Flash Drive
+ATA Hitachi HTS54161
+ATA ST2000DM001-9YN1
+ATA MKNSSDCL115GB-DX
+
